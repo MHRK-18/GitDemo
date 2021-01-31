@@ -18,8 +18,8 @@ public class AddTwoNumbers
    }
       public static float div(float a, float b)
    {
-      float div;
-      div=a>b?a/b:b/a;
+      float div=a/b;
+     
       return div;
    }
    
