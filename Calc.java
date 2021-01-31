@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AddTwoNumbers
+public class Calc
 {
        public static float add(float a, float b)
    {
